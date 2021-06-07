@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Frank Howd.</h1>
-<h3 align="center">A passionate Business Analyst from Connecticut.</h3>
+###I'm a passionate Business Analyst from Connecticut.</h3>
 
 - 🌱 I’m currently learning **Integrated Financial Statement Modeling, Plotly, and Fast API.**
 
