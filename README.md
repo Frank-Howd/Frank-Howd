@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-###I'm a passionate Business Analyst from Connecticut.</h3>
+I'm a passionate Business Analyst from Connecticut.</h3>
 
 - 🌱 I’m currently learning **Integrated Financial Statement Modeling, Plotly, and Fast API.**
 
