@@ -4,7 +4,7 @@ I'm a passionate Business Analyst with a data science background, and a flare fo
 
 - 🌱 I’m currently learning **Plotly and Fast API.**
 
-- 💬 Ask me about **inference through visualizations, financial statement accounting, machine learning, data cleaning and feature engineering, and integrated financial statement modeling.**
+- 💬 Ask me about **inference through visualizations, machine learning, data cleaning and feature engineering, and integrated financial statement modeling.**
 
 - 📫 How to reach me **FrankL.Howd@gmail.com**
 
