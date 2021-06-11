@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a passionate Business Analyst, with a flare for predictive modeling, from Connecticut.</h3>
+I'm a passionate Business Analyst with a flare for predictive modeling, from Connecticut.</h3>
 
 - 🌱 I’m currently learning **Plotly and Fast API.**
 
