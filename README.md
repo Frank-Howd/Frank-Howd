@@ -2,9 +2,9 @@
 
 I'm a passionate Business Analyst from Connecticut.</h3>
 
-- 🌱 I’m currently learning **Integrated Financial Statement Modeling, Plotly, and Fast API.**
+- 🌱 I’m currently learning **Plotly, and Fast API.**
 
-- 💬 Ask me about **Inference through visualizations, and financial statement accounting.**
+- 💬 Ask me about **Inference through visualizations, financial statement accounting, machine learning, data cleaning and feature engineering, and integrated financial statement modeling, .**
 
 - 📫 How to reach me **FrankL.Howd@gmail.com**
 
